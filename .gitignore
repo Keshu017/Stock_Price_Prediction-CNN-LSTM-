@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files (large)
+*.csv
+*.xlsx
+*.xls
+data/
+
+# Model files (large)
+*.h5
+*.pkl
+*.pickle
+*.joblib
+models/
+
+# Results
+results/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.egg-info/
+dist/
+build/
+
+# TensorFlow
+*.pb
+saved_model/
+
+# Environment variables
+.env
+.env.local
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+
+# Cache
+.cache/
+__pycache__/
